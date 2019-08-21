@@ -13,14 +13,14 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://wqadmin.jd.com/webstatic/blogs
+url: https://wecteam.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: /Users/huangshaolu/wecteam.io/public/blogs/
+public_dir: /root/WecTeam/wecteam.io/public/blogs/
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
