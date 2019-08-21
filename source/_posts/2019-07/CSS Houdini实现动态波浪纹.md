@@ -1,5 +1,5 @@
 ---
-title: CSS Houdini实现动态波浪纹
+title: CSS Houdini实现动态波浪纹1
 subtitle: CSS Houdini号称CSS领域最令人振奋的革新，它直接将CSS的API暴露给开发者，以往完全黑盒的浏览器解析流的部分环节对外开放，开发者可以自定义属于自己的CSS属性。
 cover: http://img12.360buyimg.com/jdphoto/s800x530_jfs/t1/74847/21/5179/217476/5d35b8afEa7d7bcb6/685be624382850e6.jpg
 date: 2019-07-22 19:00:00
